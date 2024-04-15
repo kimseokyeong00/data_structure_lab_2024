@@ -1,3 +1,11 @@
 ﻿  main.cpp
-C:\Users\USER\Documents\data-structure-lab-2024\array2\main.cpp(5,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  array2.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array\x64\Debug\array2.exe
+C:\Users\USER\Documents\data-structure-lab-2024\array2\Smarthome.h(1,2): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string(23,1): error C2143: 구문 오류: ';'이(가) 'namespace' 앞에 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string(23,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\array2\main.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.

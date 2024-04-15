@@ -130,6 +130,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Music.h" />
+    <ClInclude Include="Smarthome.h" />
     <ClInclude Include="car.h" />
     <ClInclude Include="lectangle.h" />
     <ClInclude Include="sportscar.h" />
