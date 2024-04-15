@@ -1,0 +1,25 @@
+﻿  ComplextTest.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(16,29): error C2143: 구문 오류: ','이(가) '문자열' 앞에 없습니다.
+  (소스 파일 'ComplextTest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(25,1): error C2059: 구문 오류: '}'
+  (소스 파일 'ComplextTest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(25,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'ComplextTest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(14,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  (소스 파일 'ComplextTest.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(14,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(14,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  (소스 파일 'ComplextTest.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\complex.h(14,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\ComplextTest.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\ComplextTest.cpp(9,6): error C2371: 'main': 재정의. 기본 형식이 다릅니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap01_DS-Algorithm\Chap02_Array_Class_Example\ComplextTest.cpp(3,6):
+  'main' 선언을 참조하십시오.
+  
